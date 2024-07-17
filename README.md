@@ -1,5 +1,7 @@
 # Language Translator App
 
+## Introduction
+
 Welcome to the Language Translator App! This application allows users to effortlessly translate text or speech from one language to another. With a user-friendly interface and support for 10 different languages, this app aims to make language translation seamless and accessible.
 
 ## Tech Stack
