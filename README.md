@@ -7,10 +7,10 @@ Welcome to the Language Translator App! This application allows users to effortl
 ## Tech Stack
 
 <div align="left">
-<img alt="AndroidStudio" src="img/astudio.gif" height="50" width="50" />
-<img alt="Java" src="img/java.gif" height="50" width="50"/>
-<img alt="Firebase" src="img/firebase.gif" height="50" width="50"/>
-<img alt="Mobile" src="img/mobile.gif" height="50" width="50"/>
+<img alt="AndroidStudio" src="img/astudio.gif" height="65" width="50" />
+<img alt="Java" src="img/java.gif" height="70" width="50"/>
+<img alt="Firebase" src="img/firebase.gif" height="70" width="50"/>
+<img alt="Mobile" src="img/mobile.gif" height="50" width="65"/>
 </div>
 
 ## Features
