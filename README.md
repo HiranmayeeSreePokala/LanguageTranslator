@@ -7,9 +7,10 @@ Welcome to the Language Translator App! This application allows users to effortl
 ## Tech Stack
 
 <div align="left">
-<img alt="AndroidStudio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img alt="AndroidStudio" src="img/astudio.gif" height="30" width="30" />
+<img alt="Java" src="img/java.gif" height="30" width="30"/>
+<img alt="Firebase" src="img/firebase.gif" height="30" width="30"/>
+<img alt="Mobile" src="img/mobile.gif" height="30" width="30"/>
 </div>
 
 ## Features
@@ -23,7 +24,7 @@ Welcome to the Language Translator App! This application allows users to effortl
 ## Usage
 
 To use the Language Translator App:
-1. Open the application in your web browser or mobile device.
+1. Open the application in your mobile device.
 2. Choose the source and target languages for translation.
 3. Type or speak the text you want to translate.
 4. View the translated text instantly on the screen.
